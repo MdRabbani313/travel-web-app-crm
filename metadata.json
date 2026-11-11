@@ -1,0 +1,6 @@
+{
+  "name": "VoyageCRM – Travel Webapp & Sales CRM",
+  "description": "Full-stack travel booking website and enterprise CRM with automated lead capture, interactive quotations, day-wise itineraries, customer portal, sales pipeline, and PostgreSQL schema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
